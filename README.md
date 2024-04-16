@@ -5,5 +5,5 @@
 
 It seems Rev1 and Rev2 ECUs share the same pinout, has been mentioned previously Rev1/2 UK/JDM ECUs are interchangeable
 
-Rev
+## Rev3
 89661-17500 - Coming Soon
